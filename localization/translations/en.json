@@ -1,0 +1,330 @@
+{
+    "language": "English",
+    "Screens": {
+        "slideItem": {
+            "text": "Signup for free and send",
+            "textMoney": "money to your loved ones."
+        },
+        "Onboarding": {
+            "text": "Welcome",
+            "btnCreate": "Create Account",
+            "btnTry": "Try it now",
+            "btnAlready": "Already have an account?"
+        },
+        "GoogleAuth": {
+            "text": "Continue with"
+        },
+        "MSAuth": {
+            "text": "Continue with"
+        },
+        "CreateAccount": {
+            "text": "Create Account",
+            "textAlready": "Already have an account?",
+            "textLog": "Log in",
+            "textOr": "OR",
+            "btnContinue": "Continue with email"
+        },
+        "Login": {
+            "text": "Welcome Back",
+            "btnLogin": "Login with email",
+            "textDon't": "Don't have an account?"
+        },
+        "LoginUser": {
+            "text": "Login",
+            "textOr": "OR",
+            "textEmail": "Email Address",
+            "textEmailValid": "Please enter a valid Email Address",
+            "textPassword": "Password",
+            "textPasswordValid": "Please enter password",
+            "btnLogin": "Login"
+        },
+        "Register": {
+            "text": "Register",
+            "textCreate": "Create your account by filling in the details below. Please provide a valid Information to get started.",
+            "textFirst": "First Name",
+            "textFirstValid": "Please enter first name",
+            "textLast": "Last Name",
+            "textLastValid": "Please enter last name",
+            "textEmail": "Email Address",
+            "textEmailValid": "Please enter a valid Email Address",
+            "textEmailExist": "Email Address already exists",
+            "textPhone": "Phone Number",
+            "textPhoneValid": "Please enter a valid phone number",
+            "textPhoneExist": "Phone number already exists",
+            "textPersonal": "Personal Identity Number",
+            "textPersonalValid": "Please enter Personal Identity Number",
+            "textPersonalExist": "Personal Identity Number already exusts",
+            "textPassword": "Password",
+            "textPasswordValid": "Password must contain at least one uppercase letter, one special character, and be at least 8 characters long.",
+            "textConfirm": "Confirm Password",
+            "textConfirmValid": "Passwords do not match",
+            "textGot": "Got an invite code?",
+            "textBy": "By creating an account you agree to",
+            "textOur": "our",
+            "textTerms": "Terms of Service",
+            "textAnd": "and",
+            "textPrivacy": "Privacy Policy",
+            "btnCreate": "Create Account"
+        },
+        "VerifyCode": {
+            "text": "OTP Verification",
+            "textPlease": "Please enter the code here.",
+            "textAn": "An authentication code has been sent to your Phone and Email",
+            "textOTP": "OTP code expired",
+            "textDidn't": "Didn’t receive a code?",
+            "textResend": "Resend Code",
+            "textInvalid": "Invalid OTP Code provided",
+            "btnVerify": "Verify & Proceed"
+        },
+        "SelectDetails": {
+            "text": "Welcome to Fluuz",
+            "textSelect": "Select your residence",
+            "textPlease": "Please enter the code here.",
+            "textPhone": "Phone Number",
+            "textValid": "Please enter a valid phone number to Continue",
+            "textContinue": "Continue",
+            "textPrivacy": "Privacy Terms and conditions"
+        },
+        "Home": {
+            "text": "Welcome back!",
+            "textFavorite": "Favorite recipient",
+            "textCurrency": "Exchange Currency",
+            "textSend": "Send",
+            "textTransaction": "Transaction History",
+            "textSee": "See all activity",
+            "textNews": "News",
+            "textApp": "App tech",
+            "textMobile": "Mobile banking in Kenya",
+            "textComing": "Coming soon",
+            "textRead": "Read more",
+            "textRate": "Exchange rate",
+            "textEdit": "Edit",
+            "textDonate": "Donate to Charity organisations",
+            "textA": "A Gift of $20 provides someone with water for 20 years.",
+            "textDonateNow": "Donate now"
+        },
+        "AddCard": {
+            "text": "Debit / Credit Card",
+            "textAdd": "Add Card"
+        },
+        "AddRecipients": {
+            "text": "Please provide more information about beneficiary."
+        },
+        "ArrivedMoney": {
+            "text": "Money has arrived",
+            "textStarting": "Starting your transfer",
+            "textTo": "to",
+            "textWe": "We received your money",
+            "textMoney": "Money sent to",
+            "textArrived": "Money has arrived",
+            "textShare": "Share recipients (PDF)",
+            "textTransfer": "Transfer details",
+            "textNumber": "Transfer number",
+            "textExchange": "Exchange rate",
+            "textYou": "You sent",
+            "textThey": "They got",
+            "textFee": "Fee",
+            "textTotal": "Total paid",
+            "textDelivery": "Delivery details",
+            "textMethod": "Delivery method",
+            "textAgent": "Agent",
+            "textRecepit": "Recipients details",
+            "textName": "Name",
+            "textCountry": "Country",
+            "textSee": "See all transfers to abdi",
+            "textNeed": "Need help with this transfer?",
+            "textContact": "Contact Support",
+            "textSchedule": "Schedule Transfer",
+            "textRepeat": "Repeat Transfer"
+        },
+        "CardList": {
+            "text": "Choose payment option",
+            "textNo": "No Payment Option Available",
+            "textAdd": "+ Add New Card",
+            "textChoose": "Choose Payment"
+        },
+        "CashPickup": {
+            "textCash": "Cash pickup",
+            "textPickup": "Pickup Cash at one of the following agents",
+            "textBakaal": "Bakaal",
+            "textCurrency": "Currency options:",
+            "textPoint": "Pickup Points",
+            "textIn": "in total",
+            "textSee": "See pricing details",
+            "textNext": "Next"
+        },
+        "DebitCard": {
+            "text": "Hello, Debit Card",
+            "textGet": "Get your debit card to pay, withdraw cash and keep track of your savings.",
+            "textSwipe": "Swipe for more",
+            "textSet": "Set up balance"
+        },
+        "DonationCompleted": {
+            "text": "Thank you",
+            "textFor": "For",
+            "textYou": "You've made a donation to",
+            "textLearn": "Learn more",
+            "textDonate": "Donate Again"
+        },
+        "Donations": {
+            "text": "Donations",
+            "textInternational": "Internationa Humanitarian Donations",
+            "textSet": "Set up own donation"
+        },
+        "HowMuchSending": {
+            "text": "How much are you sending?",
+            "textSending": "Sending to",
+            "textYou": "You send",
+            "textThey": "They get",
+            "textChange": "Change Currency",
+            "textDelivery": "Delivery Method",
+            "textTotal": "Total Cost",
+            "textFee": "Fee",
+            "textRate": "Rate",
+            "textNext": "Next",
+            "textBank": "Bank",
+            "textWallet": "Wallet"
+        },
+        "More": {
+            "text": "Logout"
+        },
+        "PreAddOrganization": {
+            "text": "Please provide information about organization.",
+            "textName": "Name of Charity",
+            "textPlaceholder": "Smile Foundation",
+            "textNameValid": "Please enter charity name",
+            "textTitle": "Title of Donation",
+            "textTitlePlaceholder": "The UN Refugee Agency",
+            "textTitleValid": "Please enter Title of Donation",
+            "textGoal": "Goal/ Amount",
+            "textGoalValid": "Please enter Goal/ Amount",
+            "textAbout": "About",
+            "textAboutPlaceholder": "More than 100 million people have been forced to flee war, conflict, and persecution from Ukraine, Afghanistan, Yemen, and other parts of the world.",
+            "textAboutValid": "Please enter About",
+            "textSave": "Save"
+        },
+        "PreAddRecipient": {
+            "text": "Please provide information about recipient.",
+            "textFirst": "First Name",
+            "textFirstValid": "Please enter first name",
+            "textLast": "Last Name",
+            "textLastValid": "Please enter last name",
+            "textEmail": "Email Address",
+            "textEmailValid": "Please enter a valid Email Address",
+            "textEmailExist": "Email Address already exists",
+            "textPhone": "Phone Number",
+            "textPhoneValid": "Please enter a valid phone number",
+            "textPhoneExist": "Phone number already exists",
+            "textSave": "Save"
+        },
+        "Profile": {
+            "text": "Profile & settings",
+            "textContact": "Contact information",
+            "textId": "ID type",
+            "textPhone": "Phone number",
+            "textManage": "Manage notifications",
+            "textLanguage": "Language",
+            "textTransaction": "Transaction History",
+            "textSecurity": "SECURITY",
+            "textFace": "Face ID",
+            "textChnage": "Change password",
+            "textHelp": "Help",
+            "textLegal": "Legal and about",
+            "textGet": "Get help",
+            "textLog": "Log out"
+        },
+        "RegisterCharity": {
+            "text": "Register Charity",
+            "textSet": "Set up own charity that you would like to donate to and save it in the list.",
+            "textName": "Name of Charity",
+            "textNamePlaceholder": "Smile foundation",
+            "textTitle": "Title of donation",
+            "textTitlePlaceholder": "Wells in Uganda",
+            "textOrgannization": "Organisation number",
+            "textGoal": "Goal/ Amount",
+            "textAbout": "About",
+            "textAboutPlaceholder": "We've been building water wells in rural Africa since 1996.We believe clean water is the first step out of poverty, and that those without any should have it first.",
+            "textUpload": "Upload Photos",
+            "textSend": "Send for review"
+        },
+        "RelatedRecipients": {
+            "text": "Describe how the recipient is related to you",
+            "textChoose": "Choose the option that best matches your relation",
+            "textLearn": "Learn more about why we ask this",
+            "textPartner": "Partner",
+            "textMother": "Mother, Father, Grandparent",
+            "textSpouse": "Spouse",
+            "textWife": "Wife, Husband, Partner",
+            "textSibling": "Sibling",
+            "textSister": "Sister, Brother",
+            "textChild": "Child",
+            "textDaughter": "Daughter, Son, Gandchild",
+            "textFamily": "Other family members",
+            "textAunt": "Aunt, Uncle, Cousin, relative by marriage",
+            "textFriend": "Friend",
+            "textI": "I am sending to myself",
+            "textOther": "Other",
+            "textPlease": "Please describe",
+            "textIs": "is it okay to send money to someone you do not know?",
+            "textAny": "Any Question? Contact Us",
+            "textNext": "Next",
+            "textOption": "Choose the option that best matches your relation"
+        },
+        "SavedRecipients": {
+            "text": "Your saved recipients",
+            "textYou": "You do not have any recipient saved, try sending money to someone"
+        },
+        "SendingTo": {
+            "text": "Who are you sending to?",
+            "textYour": "Your recipients in",
+            "textAdd": "Add new recipient",
+            "textIn": "in total",
+            "textSee": "See pricing details",
+            "textNext": "Next"
+        },
+        "SendTo": {
+            "text": "Send To"
+        },
+        "SendConfirmation": {
+            "text": "Please confirm your recipient & money details",
+            "textTo": "to",
+            "textTransfer": "Transfer details",
+            "textExchange": "Exchange rate",
+            "textYou": "You will send",
+            "textThey": "They will get",
+            "textFee": "Fee",
+            "textTotal": "Total paid",
+            "textConfirm": "Confirm Send"
+        },
+        "TransferDetails": {
+            "text": "Transfer details",
+            "textTimeline": "Timeline",
+            "textSummary": "Summary",
+            "textTransfer": "Transfer number",
+            "textStatus": "Status",
+            "textRecipient": "Recipient",
+            "textThey": "They got",
+            "textStarting": "Starting your transfer",
+            "textWe": "We received your money",
+            "textMoney": "Money sent to",
+            "textpaid": "Money was paid out",
+            "textPin": "PIN",
+            "textDestination": "Destination",
+            "textDelivery": "Delivery method",
+            "textSee": "See Locations",
+            "textPaid": "Paid with",
+            "textYou": "You sent",
+            "textFee": "Fee",
+            "textTotal": "Total paid",
+            "textView": "View recipients",
+            "textExchange": "Exchange Rate",
+            "textSend": "Send Again"
+        },
+        "AppBar": {
+            "text": "Home",
+            "textSend": "Send",
+            "textRecipients": "Recipients",
+            "textTransactions": "Transactions"
+        }
+    }
+}

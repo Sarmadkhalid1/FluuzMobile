@@ -1,0 +1,33 @@
+{
+  "cli": {
+    "version": ">= 13.3.0",
+    "promptToConfigurePushNotifications": false
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {
+      "android": {
+        "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_URL": "https://fluuz.azurewebsites.net",
+        "EXPO_PUBLIC_GOOGLE": "1049029810242-lmavd61hgge1730qunj69ub4v7rfsepv.apps.googleusercontent.com",
+        "EXPO_PUBLIC_GOOGLE_IOS": "1049029810242-ac9svonpmlk7lgmfvu945bktios75dr0.apps.googleusercontent.com",
+        "EXPO_PUBLIC_MS_CLIENT_ID": "c0231045-7dcd-4caf-9562-bc71e820be1d",
+        "EXPO_PUBLIC_STRIPE_PK": "pk_test_51L0Pz2EqwXWr3UnlGm5JzKMUNLSx0iHvS2CLqTqI4HuJYkY6dg9ZsxD2Zp4uxtaYUu5mxELmn2y0pD2a0h1YikPu00QTP2lvWc"
+      }
+    }
+  },
+  "submit": {
+    "production": {}
+  }
+}

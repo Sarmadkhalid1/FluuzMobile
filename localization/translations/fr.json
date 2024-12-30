@@ -1,0 +1,330 @@
+{
+    "language": "French",
+    "Screens": {
+        "slideItem": {
+            "text": "Inscrivez-vous gratuitement et envoyez",
+            "textMoney": "de l'argent à vos proches."
+        },
+        "Onboarding": {
+            "text": "Bienvenue",
+            "btnCreate": "Créer un compte",
+            "btnTry": "Essayer maintenant",
+            "btnAlready": "Vous avez déjà un compte ?"
+        },
+        "GoogleAuth": {
+            "text": "Continuer avec"
+        },
+        "MSAuth": {
+            "text": "Continuer avec"
+        },
+        "CreateAccount": {
+            "text": "Créer un compte",
+            "textAlready": "Vous avez déjà un compte ?",
+            "textLog": "Se connecter",
+            "textOr": "OU",
+            "btnContinue": "Continuer avec l'email"
+        },
+        "Login": {
+            "text": "Bon retour",
+            "btnLogin": "Se connecter avec l'email",
+            "textDon't": "Vous n'avez pas de compte ?"
+        },
+        "LoginUser": {
+            "text": "Connexion",
+            "textOr": "OU",
+            "textEmail": "Adresse e-mail",
+            "textEmailValid": "Veuillez entrer une adresse e-mail valide",
+            "textPassword": "Mot de passe",
+            "textPasswordValid": "Veuillez entrer le mot de passe",
+            "btnLogin": "Connexion"
+        },
+        "Register": {
+            "text": "S'inscrire",
+            "textCreate": "Créez votre compte en remplissant les détails ci-dessous. Veuillez fournir des informations valides pour commencer.",
+            "textFirst": "Prénom",
+            "textFirstValid": "Veuillez entrer le prénom",
+            "textLast": "Nom",
+            "textLastValid": "Veuillez entrer le nom",
+            "textEmail": "Adresse e-mail",
+            "textEmailValid": "Veuillez entrer une adresse e-mail valide",
+            "textEmailExist": "L'adresse e-mail existe déjà",
+            "textPhone": "Numéro de téléphone",
+            "textPhoneValid": "Veuillez entrer un numéro de téléphone valide",
+            "textPhoneExist": "Le numéro de téléphone existe déjà",
+            "textPersonal": "Numéro d'identité personnelle",
+            "textPersonalValid": "Veuillez entrer le numéro d'identité personnelle",
+            "textPersonalExist": "Le numéro d'identité personnelle existe déjà",
+            "textPassword": "Mot de passe",
+            "textPasswordValid": "Le mot de passe doit contenir au moins une lettre majuscule, un caractère spécial et avoir au moins 8 caractères.",
+            "textConfirm": "Confirmer le mot de passe",
+            "textConfirmValid": "Les mots de passe ne correspondent pas",
+            "textGot": "Vous avez un code d'invitation ?",
+            "textBy": "En créant un compte, vous acceptez",
+            "textOur": "nos",
+            "textTerms": "Conditions d'utilisation",
+            "textAnd": "et",
+            "textPrivacy": "Politique de confidentialité",
+            "btnCreate": "Créer un compte"
+        },
+        "VerifyCode": {
+            "text": "Vérification OTP",
+            "textPlease": "Veuillez entrer le code ici.",
+            "textAn": "Un code d'authentification a été envoyé à votre téléphone et à votre e-mail",
+            "textOTP": "Le code OTP a expiré",
+            "textDidn't": "Vous n'avez pas reçu de code ?",
+            "textResend": "Renvoyer le code",
+            "textInvalid": "Code OTP invalide fourni",
+            "btnVerify": "Vérifier et continuer"
+        },
+        "SelectDetails": {
+            "text": "Bienvenue chez Fluuz",
+            "textSelect": "Sélectionnez votre résidence",
+            "textPlease": "Veuillez entrer le code ici.",
+            "textPhone": "Numéro de téléphone",
+            "textValid": "Veuillez entrer un numéro de téléphone valide pour continuer",
+            "textContinue": "Continuer",
+            "textPrivacy": "Conditions de confidentialité"
+        },
+        "Home": {
+            "text": "Bon retour !",
+            "textFavorite": "Bénéficiaire préféré",
+            "textCurrency": "Changer de devise",
+            "textSend": "Envoyer",
+            "textTransaction": "Historique des transactions",
+            "textSee": "Voir toutes les activités",
+            "textNews": "Nouvelles",
+            "textApp": "Technologie de l'application",
+            "textMobile": "Banque mobile au Kenya",
+            "textComing": "Bientôt disponible",
+            "textRead": "Lire la suite",
+            "textRate": "Taux de change",
+            "textEdit": "Modifier",
+            "textDonate": "Faire un don à des organisations caritatives",
+            "textA": "Un don de 20 $ permet à quelqu'un d'avoir de l'eau pendant 20 ans.",
+            "textDonateNow": "Faire un don maintenant"
+        },
+        "AddCard": {
+            "text": "Carte de débit / crédit",
+            "textAdd": "Ajouter une carte"
+        },
+        "AddRecipients": {
+            "text": "Veuillez fournir plus d'informations sur le bénéficiaire."
+        },
+        "ArrivedMoney": {
+            "text": "L'argent est arrivé",
+            "textStarting": "Démarrage de votre transfert",
+            "textTo": "à",
+            "textWe": "Nous avons reçu votre argent",
+            "textMoney": "Argent envoyé à",
+            "textArrived": "L'argent est arrivé",
+            "textShare": "Partager le reçu (PDF)",
+            "textTransfer": "Détails du transfert",
+            "textNumber": "Numéro de transfert",
+            "textExchange": "Taux de change",
+            "textYou": "Vous avez envoyé",
+            "textThey": "Ils ont reçu",
+            "textFee": "Frais",
+            "textTotal": "Total payé",
+            "textDelivery": "Détails de la livraison",
+            "textMethod": "Méthode de livraison",
+            "textAgent": "Agent",
+            "textRecepit": "Détails du reçu",
+            "textName": "Nom",
+            "textCountry": "Pays",
+            "textSee": "Voir tous les transferts vers abdi",
+            "textNeed": "Besoin d'aide pour ce transfert ?",
+            "textContact": "Contacter le support",
+            "textSchedule": "Programmer le transfert",
+            "textRepeat": "Répéter le transfert"
+        },
+        "CardList": {
+            "text": "Choisissez l'option de paiement",
+            "textNo": "Aucune option de paiement disponible",
+            "textAdd": "+ Ajouter une nouvelle carte",
+            "textChoose": "Choisir le paiement"
+        },
+        "CashPickup": {
+            "textCash": "Retrait en espèces",
+            "textPickup": "Retirez de l'argent chez l'un des agents suivants",
+            "textBakaal": "Bakaal",
+            "textCurrency": "Options de devise :",
+            "textPoint": "Points de retrait",
+            "textIn": "au total",
+            "textSee": "Voir les détails des prix",
+            "textNext": "Suivant"
+        },
+        "DebitCard": {
+            "text": "Bonjour, carte de débit",
+            "textGet": "Obtenez votre carte de débit pour payer, retirer de l'argent et suivre vos économies.",
+            "textSwipe": "Balayez pour plus",
+            "textSet": "Configurer le solde"
+        },
+        "DonationCompleted": {
+            "text": "Merci",
+            "textFor": "Pour",
+            "textYou": "Vous avez fait un don à",
+            "textLearn": "En savoir plus",
+            "textDonate": "Faire un don à nouveau"
+        },
+        "Donations": {
+            "text": "Dons",
+            "textInternational": "Dons humanitaires internationaux",
+            "textSet": "Configurer son propre don"
+        },
+        "HowMuchSending": {
+            "text": "Combien envoyez-vous ?",
+            "textSending": "Envoi à",
+            "textYou": "Vous envoyez",
+            "textThey": "Ils reçoivent",
+            "textChange": "Changer de devise",
+            "textDelivery": "Méthode de livraison",
+            "textTotal": "Coût total",
+            "textFee": "Frais",
+            "textRate": "Taux",
+            "textNext": "Suivant",
+            "textBank": "Banque",
+            "textWallet": "Portefeuille"
+        },
+        "More": {
+            "text": "Déconnexion"
+        },
+        "PreAddOrganization": {
+            "text": "Veuillez fournir des informations sur l'organisation.",
+            "textName": "Nom de la charité",
+            "textPlaceholder": "Smile Foundation",
+            "textNameValid": "Veuillez entrer le nom de la charité",
+            "textTitle": "Titre du don",
+            "textTitlePlaceholder": "L'Agence des Nations Unies pour les réfugiés",
+            "textTitleValid": "Veuillez entrer le titre du don",
+            "textGoal": "Objectif / Montant",
+            "textGoalValid": "Veuillez entrer l'objectif / montant",
+            "textAbout": "À propos",
+            "textAboutPlaceholder": "Plus de 100 millions de personnes ont été forcées de fuir la guerre, les conflits et les persécutions en Ukraine, en Afghanistan, au Yémen et dans d'autres parties du monde.",
+            "textAboutValid": "Veuillez entrer à propos",
+            "textSave": "Sauvegarder"
+        },
+        "PreAddRecipient": {
+            "text": "Veuillez fournir des informations sur le bénéficiaire.",
+            "textFirst": "Prénom",
+            "textFirstValid": "Veuillez entrer le prénom",
+            "textLast": "Nom",
+            "textLastValid": "Veuillez entrer le nom",
+            "textEmail": "Adresse e-mail",
+            "textEmailValid": "Veuillez entrer une adresse e-mail valide",
+            "textEmailExist": "L'adresse e-mail existe déjà",
+            "textPhone": "Numéro de téléphone",
+            "textPhoneValid": "Veuillez entrer un numéro de téléphone valide",
+            "textPhoneExist": "Le numéro de téléphone existe déjà",
+            "textSave": "Sauvegarder"
+        },
+        "Profile": {
+            "text": "Profil et paramètres",
+            "textContact": "Informations de contact",
+            "textId": "Type d'identité",
+            "textPhone": "Numéro de téléphone",
+            "textManage": "Gérer les notifications",
+            "textLanguage": "Langue",
+            "textTransaction": "Historique des transactions",
+            "textSecurity": "SÉCURITÉ",
+            "textFace": "Face ID",
+            "textChnage": "Changer le mot de passe",
+            "textHelp": "Aide",
+            "textLegal": "Mentions légales et à propos",
+            "textGet": "Obtenir de l'aide",
+            "textLog": "Déconnexion"
+        },
+        "RegisterCharity": {
+            "text": "Enregistrer une charité",
+            "textSet": "Configurer votre propre charité à laquelle vous souhaitez faire un don et l'enregistrer dans la liste.",
+            "textName": "Nom de la charité",
+            "textNamePlaceholder": "Smile Foundation",
+            "textTitle": "Titre du don",
+            "textTitlePlaceholder": "Puits en Ouganda",
+            "textOrgannization": "Numéro d'organisation",
+            "textGoal": "Objectif / Montant",
+            "textAbout": "À propos",
+            "textAboutPlaceholder": "Nous construisons des puits d'eau en Afrique rurale depuis 1996. Nous croyons que l'eau propre est la première étape pour sortir de la pauvreté, et que ceux qui n'en ont pas devraient en avoir en premier.",
+            "textUpload": "Télécharger des photos",
+            "textSend": "Envoyer pour révision"
+        },
+        "RelatedRecipients": {
+            "text": "Décrivez comment le bénéficiaire est lié à vous",
+            "textChoose": "Choisissez l'option qui correspond le mieux à votre relation",
+            "textLearn": "En savoir plus sur pourquoi nous demandons cela",
+            "textPartner": "Partenaire",
+            "textMother": "Mère, Père, Grand-parent",
+            "textSpouse": "Conjoint",
+            "textWife": "Épouse, Époux, Partenaire",
+            "textSibling": "Frère ou sœur",
+            "textSister": "Sœur, Frère",
+            "textChild": "Enfant",
+            "textDaughter": "Fille, Fils, Petit-enfant",
+            "textFamily": "Autres membres de la famille",
+            "textAunt": "Tante, Oncle, Cousin, parent par alliance",
+            "textFriend": "Ami",
+            "textI": "Je m'envoie de l'argent",
+            "textOther": "Autre",
+            "textPlease": "Veuillez décrire",
+            "textIs": "Est-il acceptable d'envoyer de l'argent à quelqu'un que vous ne connaissez pas ?",
+            "textAny": "Une question ? Contactez-nous",
+            "textNext": "Suivant",
+            "textOption": "Choisissez l'option qui correspond le mieux à votre relation"
+        },
+        "SavedRecipients": {
+            "text": "Vos bénéficiaires destinataires",
+            "textYou": "Vous n'avez aucun bénéficiaire enregistré, essayez d'envoyer de l'argent à quelqu'un"
+        },
+        "SendingTo": {
+            "text": "À qui envoyez-vous ?",
+            "textYour": "Votre reçu dans",
+            "textAdd": "Ajouter un nouveau bénéficiaire",
+            "textIn": "au total",
+            "textSee": "Voir les détails des prix",
+            "textNext": "Suivant"
+        },
+        "SendTo": {
+            "text": "Envoyer à"
+        },
+        "SendConfirmation": {
+            "text": "Veuillez confirmer les détails du destinataire et de l'argent",
+            "textTo": "à",
+            "textTransfer": "Détails du transfert",
+            "textExchange": "Taux de change",
+            "textYou": "Vous enverrez",
+            "textThey": "Ils recevront",
+            "textFee": "Frais",
+            "textTotal": "Total payé",
+            "textConfirm": "Confirmer l'envoi"
+        },
+        "TransferDetails": {
+            "text": "Détails du transfert",
+            "textTimeline": "Chronologie",
+            "textSummary": "Résumé",
+            "textTransfer": "Numéro de transfert",
+            "textStatus": "Statut",
+            "textRecipient": "Bénéficiaire",
+            "textThey": "Ils ont reçu",
+            "textStarting": "Démarrage de votre transfert",
+            "textWe": "Nous avons reçu votre argent",
+            "textMoney": "Argent envoyé à",
+            "textpaid": "L'argent a été payé",
+            "textPin": "PIN",
+            "textDestination": "Destination",
+            "textDelivery": "Méthode de livraison",
+            "textSee": "Voir les emplacements",
+            "textPaid": "Payé avec",
+            "textYou": "Vous avez envoyé",
+            "textFee": "Frais",
+            "textTotal": "Total payé",
+            "textView": "Voir le reçu",
+            "textExchange": "Taux de change",
+            "textSend": "Envoyer à nouveau"
+        },
+        "AppBar": {
+            "text": "Accueil",
+            "textSend": "Envoyer",
+            "textRecipients": "Destinataires",
+            "textTransactions": "Transactions"
+        }
+    }
+}

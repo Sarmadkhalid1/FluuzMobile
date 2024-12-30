@@ -1,0 +1,345 @@
+{
+    "language": "Svenska",
+    "Screens": {
+        "slideItem": {
+            "text": "Registrera dig gratis och skicka",
+            "textMoney": "pengar till dina nära och kära."
+        },
+        "Onboarding": {
+            "text": "Välkommen",
+            "btnCreate": "Skapa ett konto",
+            "btnTry": "Prova nu",
+            "btnAlready": "Har du redan ett konto?"
+        },
+        "GoogleAuth": {
+            "text": "Fortsätt med"
+        },
+        "MSAuth": {
+            "text": "Fortsätt med"
+        },
+        "CreateAccount": {
+            "text": "Skapa ett konto",
+            "textAlready": "Har du redan ett konto?",
+            "textLog": "Logga in",
+            "textOr": "ELLER",
+            "btnContinue": "Fortsätt med e-post"
+        },
+        "Login": {
+            "text": "Välkommen tillbaka",
+            "btnLogin": "Logga in med e-post",
+            "textDon't": "Har du inget konto?"
+        },
+        "LoginUser": {
+            "text": "Logga in",
+            "textOr": "ELLER",
+            "textEmail": "E-postadress",
+            "textEmailValid": "Vänligen ange en giltig e-postadress",
+            "textPassword": "Lösenord",
+            "textPasswordValid": "Vänligen ange lösenord",
+            "btnLogin": "Logga in"
+        },
+        "Register": {
+            "text": "Registrera",
+            "textCreate": "Skapa ditt konto genom att fylla i uppgifterna nedan. Ange giltig information för att komma igång.",
+            "textFirst": "Förnamn",
+            "textFirstValid": "Vänligen ange förnamn",
+            "textLast": "Efternamn",
+            "textLastValid": "Vänligen ange efternamn",
+            "textEmail": "E-postadress",
+            "textEmailValid": "Vänligen ange en giltig e-postadress",
+            "textEmailExist": "E-postadressen finns redan",
+            "textPhone": "Telefonnummer",
+            "textPhoneValid": "Vänligen ange ett giltigt telefonnummer",
+            "textPhoneExist": "Telefonnumret finns redan",
+            "textPersonal": "Personnummer",
+            "textPersonalValid": "Vänligen ange personnummer",
+            "textPersonalExist": "Personnumret finns redan",
+            "textPassword": "Lösenord",
+            "textPasswordValid": "Lösenordet måste innehålla minst en versal, ett specialtecken och vara minst 8 tecken långt.",
+            "textConfirm": "Bekräfta lösenord",
+            "textConfirmValid": "Lösenorden matchar inte",
+            "textGot": "Har du en inbjudningskod?",
+            "textBy": "Genom att skapa ett konto godkänner du",
+            "textOur": "våra",
+            "textTerms": "användarvillkor",
+            "textAnd": "och",
+            "textPrivacy": "integritetspolicy",
+            "btnCreate": "Skapa ett konto"
+        },
+        "VerifyCode": {
+            "text": "OTP-verifiering",
+            "textPlease": "Vänligen ange koden här.",
+            "textAn": "En autentiseringskod har skickats till din telefon och din e-post",
+            "textOTP": "OTP-koden har gått ut",
+            "textDidn't": "Fick du ingen kod?",
+            "textResend": "Skicka koden igen",
+            "textInvalid": "Felaktig OTP-kod",
+            "btnVerify": "Verifiera och fortsätt"
+        },
+        "SelectDetails": {
+            "text": "Välkommen till Fluuz",
+            "textSelect": "Välj din bostad",
+            "textPlease": "Vänligen ange koden här.",
+            "textPhone": "Telefonnummer",
+            "textValid": "Vänligen ange ett giltigt telefonnummer för att fortsätta",
+            "textContinue": "Fortsätt",
+            "textPrivacy": "Sekretessvillkor"
+        },
+        "Home": {
+            "text": "Välkommen tillbaka!",
+            "textFavorite": "Favoritmottagare",
+            "textCurrency": "Ändra valuta",
+            "textSend": "Skicka",
+            "textTransaction": "Transaktionshistorik",
+            "textSee": "Visa all aktivitet",
+            "textNews": "Nyheter",
+            "textApp": "App-teknologi",
+            "textMobile": "Mobilbank i Kenya",
+            "textComing": "Kommer snart",
+            "textRead": "Läs mer",
+            "textRate": "Växelkurs",
+            "textEdit": "Redigera",
+            "textDonate": "Donera till välgörenhet",
+            "textA": "En donation på 20 $ ger någon tillgång till vatten i 20 år.",
+            "textDonateNow": "Donera nu"
+        },
+        "AddCard": {
+            "text": "Debet/kreditkort",
+            "textAdd": "Lägg till kort"
+        },
+        "AddRecipients": {
+            "text": "Vänligen ge mer information om mottagaren."
+        },
+        "ArrivedMoney": {
+            "text": "Pengarna har kommit fram",
+            "textStarting": "Startar din överföring",
+            "textTo": "till",
+            "textWe": "Vi har mottagit dina pengar",
+            "textMoney": "Pengar skickade till",
+            "textArrived": "Pengarna har kommit fram",
+            "textShare": "Dela kvitto (PDF)",
+            "textTransfer": "Överföringsdetaljer",
+            "textNumber": "Överföringsnummer",
+            "textExchange": "Växelkurs",
+            "textYou": "Du skickade",
+            "textThey": "De mottog",
+            "textFee": "Avgift",
+            "textTotal": "Totalt betalat",
+            "textDelivery": "Leveransdetaljer",
+            "textMethod": "Leveransmetod",
+            "textAgent": "Agent",
+            "textRecepit": "Kvittoinformation",
+            "textName": "Namn",
+            "textCountry": "Land",
+            "textSee": "Visa alla överföringar till abdi",
+            "textNeed": "Behöver du hjälp med denna överföring?",
+            "textContact": "Kontakta supporten",
+            "textSchedule": "Schemalägg överföringen",
+            "textRepeat": "Upprepa överföringen"
+        },
+        "CardList": {
+            "text": "Välj betalningsalternativ",
+            "textNo": "Inga betalningsalternativ tillgängliga",
+            "textAdd": "+ Lägg till nytt kort",
+            "textChoose": "Välj betalning"
+        },
+        "CashPickup": {
+            "textCash": "Kontantuttag",
+            "textPickup": "Hämta pengar från en av följande agenter",
+            "textBakaal": "Bakaal",
+            "textCurrency": "Valutaalternativ:",
+            "textPoint": "Uttagspunkter",
+            "textIn": "totalt",
+            "textSee": "Se prisuppgifter",
+            "textNext": "Nästa"
+        },
+        "DebitCard": {
+            "text": "Hej, betalkort",
+            "textGet": "Skaffa ditt betalkort för att betala, ta ut pengar och följa dina besparingar.",
+            "textSwipe": "Svep för mer",
+            "textSet": "Ställ in saldo"
+        },
+        "DonationCompleted": {
+            "text": "Tack",
+            "textFor": "För",
+            "textYou": "Du har donerat till",
+            "textLearn": "Läs mer",
+            "textDonate": "Donera igen"
+        },
+        "Donations": {
+            "text": "Donationer",
+            "textInternational": "Internationella humanitära donationer",
+            "textSet": "Ställ in din egen donation"
+        },
+        "HowMuchSending": {
+            "text": "Hur mycket skickar du?",
+            "textSending": "Skickar till",
+            "textYou": "Du skickar",
+            "textThey": "De mottar",
+            "textChange": "Ändra valuta",
+            "textDelivery": "Leveransmetod",
+            "textTotal": "Total kostnad",
+            "textFee": "Avgift",
+            "textRate": "Kurs",
+            "textNext": "Nästa",
+            "textBank": "Bank",
+            "textWallet": "Plånbok"
+        },
+        "More": {
+            "text": "Logga ut"
+        },
+        "PreAddOrganization": {
+            "text": "Vänligen ge information om organisationen.",
+            "textName": "Välgörenhetsnamn",
+            "textPlaceholder": "Smile Foundation",
+            "textNameValid": "Vänligen ange välgörenhetsnamn",
+            "textTitle": "Donationsrubrik",
+            "textTitlePlaceholder": "FN:s flyktingbyrå",
+            "textTitleValid": "Vänligen ange donationsrubrik",
+            "textGoal": "Mål / Belopp",
+            "textGoalValid": "Vänligen ange mål / belopp",
+            "textAbout": "Om",
+            "textAboutPlaceholder": "Över 100 miljoner människor har tvingats fly från krig, konflikter och förföljelse i Ukraina, Afghanistan, Jemen ochandra länder. Vi är deras livlina.",
+            "textAboutValid": "Vänligen ange om",
+            "textPhoto": "Ladda upp foto",
+            "textSend": "Skicka för granskning"
+        },
+        "PreAddRecipient": {
+            "text": "Vänligen ange information om mottagaren.",
+            "textFirst": "Förnamn",
+            "textFirstValid": "Vänligen ange förnamn",
+            "textLast": "Efternamn",
+            "textLastValid": "Vänligen ange efternamn",
+            "textEmail": "E-postadress",
+            "textEmailValid": "Vänligen ange en giltig e-postadress",
+            "textEmailExist": "E-postadressen finns redan",
+            "textPhone": "Telefonnummer",
+            "textPhoneValid": "Vänligen ange ett giltigt telefonnummer",
+            "textPhoneExist": "Telefonnumret finns redan",
+            "textSave": "Spara"
+        },
+        "ProfileDetails": {
+            "text": "Profil och inställningar",
+            "textFirst": "Förnamn",
+            "textFirstValid": "Vänligen ange förnamn",
+            "textLast": "Efternamn",
+            "textLastValid": "Vänligen ange efternamn",
+            "textEmail": "E-postadress",
+            "textEmailValid": "Vänligen ange en giltig e-postadress",
+            "textEmailExist": "E-postadressen finns redan",
+            "textPhone": "Telefonnummer",
+            "textPhoneValid": "Vänligen ange ett giltigt telefonnummer",
+            "textPhoneExist": "Telefonnumret finns redan",
+            "textSave": "Spara"
+        },
+        "Profile": {
+            "text": "Profil och inställningar",
+            "textContact": "Kontaktinformation",
+            "textId": "ID-typ",
+            "textPhone": "Telefonnummer",
+            "textManage": "Hantera notiser",
+            "textLanguage": "Språk",
+            "textTransaction": "Transaktionshistorik",
+            "textSecurity": "SÄKERHET",
+            "textFace": "Face ID",
+            "textChnage": "Byt lösenord",
+            "textHelp": "Hjälp",
+            "textLegal": "Juridisk information och om",
+            "textGet": "Få hjälp",
+            "textLog": "Logga ut"
+        },
+        "RegisterCharity": {
+            "text": "Registrera en välgörenhet",
+            "textSet": "Ställ in din egen välgörenhet du vill donera till och registrera den i listan.",
+            "textName": "Välgörenhetsnamn",
+            "textNamePlaceholder": "Smile Foundation",
+            "textTitle": "Donationsrubrik",
+            "textTitlePlaceholder": "Brunnar i Uganda",
+            "textOrgannization": "Organisationsnummer",
+            "textGoal": "Mål / Belopp",
+            "textAbout": "Om",
+            "textAboutPlaceholder": "Vi bygger brunnar i landsbygden i Afrika sedan 1996. Vi tror att rent vatten är det första steget ut ur fattigdom, och att de som inte har det borde få det först.",
+            "textUpload": "Ladda upp foton",
+            "textSend": "Skicka för granskning"
+        },
+        "RelatedRecipients": {
+            "text": "Beskriv hur mottagaren är relaterad till dig",
+            "textChoose": "Välj det alternativ som bäst beskriver din relation",
+            "textLearn": "Läs mer om varför vi frågar detta",
+            "textPartner": "Partner",
+            "textMother": "Mor, Far, Far- eller morförälder",
+            "textSpouse": "Make/maka",
+            "textWife": "Hustru, Man, Partner",
+            "textSibling": "Syskon",
+            "textSister": "Syster, Bror",
+            "textChild": "Barn",
+            "textDaughter": "Dotter, Son, Barnbarn",
+            "textFamily": "Andra familjemedlemmar",
+            "textAunt": "Faster, Farbror, Moster, Morbror, Kusin, Svärförälder",
+            "textFriend": "Vän",
+            "textI": "Jag skickar pengar till mig själv",
+            "textOther": "Annat",
+            "textPlease": "Vänligen beskriv",
+            "textIs": "Är det acceptabelt att skicka pengar till någon du inte känner?",
+            "textAny": "Har du frågor? Kontakta oss",
+            "textNext": "Nästa",
+            "textOption": "Välj det alternativ som bäst beskriver din relation"
+        },
+        "SavedRecipients": {
+            "text": "Dina sparade destinatarios",
+            "textYou": "Du har inga sparade mottagare, försök att skicka pengar till någon"
+        },
+        "SendingTo": {
+            "text": "Vem skickar du till?",
+            "textYour": "Ditt kvitto i",
+            "textAdd": "Lägg till en ny mottagare",
+            "textIn": "totalt",
+            "textSee": "Se prisuppgifter",
+            "textNext": "Nästa"
+        },
+        "SendTo": {
+            "text": "Skicka till"
+        },
+        "SendConfirmation": {
+            "text": "Bekräfta mottagare och beloppsdetaljer",
+            "textTo": "till",
+            "textTransfer": "Transfers information",
+            "textExchange": "Växelkurs",
+            "textYou": "Du skickar",
+            "textThey": "De får",
+            "textFee": "Gebyr",
+            "textTotal": "Total betalning",
+            "textConfirm": "Bekräfta Transaktion"
+        },
+        "TransferDetails": {
+            "text": "Överföringsdetaljer",
+            "textTimeline": "Tidslinje",
+            "textSummary": "Sammanfattning",
+            "textTransfer": "Överföringsnummer",
+            "textStatus": "Status",
+            "textRecipient": "Mottagare",
+            "textThey": "De mottog",
+            "textStarting": "Startar din överföring",
+            "textWe": "Vi har mottagit dina pengar",
+            "textMoney": "Pengar skickade till",
+            "textpaid": "Pengarna har betalats ut",
+            "textPin": "PIN",
+            "textDestination": "Destination",
+            "textDelivery": "Leveransmetod",
+            "textSee": "Se platser",
+            "textPaid": "Betald med",
+            "textYou": "Du skickade",
+            "textFee": "Avgift",
+            "textTotal": "Totalt betalat",
+            "textView": "Visa kvitto",
+            "textExchange": "Växelkurs",
+            "textSend": "Skicka igen"
+        },
+        "AppBar": {
+            "text": "Hem",
+            "textSend": "Skicka",
+            "textRecipients": "Mottagare",
+            "textTransactions": "Transaktioner"
+        }
+    }
+}
